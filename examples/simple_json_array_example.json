@@ -1,0 +1,12 @@
+[
+  {
+    "exampleId": 1,
+    "exampleBoolean": true,
+    "exampleString": "Example String"
+  },
+  {
+    "exampleId": 2,
+    "exampleBoolean": false,
+    "exampleString": "Example String 2"
+  }
+]
