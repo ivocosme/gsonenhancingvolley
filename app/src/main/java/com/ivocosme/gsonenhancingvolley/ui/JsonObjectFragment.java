@@ -20,7 +20,7 @@ import com.ivocosme.gsonenhancingvolley.requests.objects.JSONResponseObject;
 import org.json.JSONObject;
 
 public class JsonObjectFragment extends Fragment {
-    private static final String TEST_LINK_TO_JSON_OBJECT = "https://dl.dropbox.com/s/3c3xf81r1dgf197/simple_json_object_example.json";
+    private static final String TEST_LINK_TO_JSON_OBJECT = "https://raw.githubusercontent.com/ivocosme/gsonenhancingvolley/master/examples/simple_json_object_example.json";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {

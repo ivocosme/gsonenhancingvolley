@@ -22,7 +22,7 @@ import org.json.JSONArray;
 import java.util.List;
 
 public class JsonArrayFragment extends Fragment {
-    private static final String TEST_LINK_TO_JSON_ARRAY = "https://dl.dropbox.com/s/2dogurmo7051anm/simple_json_array_example.json";
+    private static final String TEST_LINK_TO_JSON_ARRAY = "https://raw.githubusercontent.com/ivocosme/gsonenhancingvolley/master/examples/simple_json_array_example.json";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
